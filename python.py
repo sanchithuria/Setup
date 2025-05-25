@@ -1,4 +1,4 @@
-y=int(input())
+x=int(input())
 
-for i in range(y):
+for i in range(x):
     print(i+1)
