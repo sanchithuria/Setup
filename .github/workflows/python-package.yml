@@ -26,4 +26,4 @@ jobs:
 
     - name: Run tests
       run: |
-        python -m pytest test_app.py
+        python -m pytest python.py
