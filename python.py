@@ -1,4 +1,4 @@
 x=int(input())
 
-for i in range(x):
+for i in range(10):
     print(i+1)
